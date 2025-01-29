@@ -1,3 +1,4 @@
+
 /**
  * ¡LA ADIVINADORA!
  * 
@@ -16,7 +17,11 @@
  * 
  */
 
-let numeroGatos = 10;
 
-let futuro = "tendréis " + numeroGatos + " gatos";
+let numeroGatos = 1
+let pareja = "Aileen";
+let pais = "Suecia";
+let trabajo = "Programador Data Science";
+
+let futuro = "Tú estaras en " + pais + " en una realción con " + pareja + " con unos " + numeroGatos + " gatos " + " trabajando de " + trabajo;
 console.log(futuro);
